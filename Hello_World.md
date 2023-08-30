@@ -4,4 +4,8 @@ Hello world!
 
 **Half-fat**
 
+* Add element 1
+* Add element 2
+* Add element 3
+
 Start Work in GIT
