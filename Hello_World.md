@@ -2,14 +2,17 @@
 
 ## Text allocation
 
-*World*
+*World* - add * before and above text
+
+**Half-fat** - add ** before and above text
 
 ## Lists
 
-**Half-fat**
-
-* Add element 1
+* Add element 1 - add *'space' before text
 * Add element 2
 * Add element 3
+
+1. first element - add 1. before text
+2. second element
 
 Start Work in GIT
