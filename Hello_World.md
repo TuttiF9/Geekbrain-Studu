@@ -2,9 +2,9 @@
 
 ## Text allocation
 
-*World* - add * before and above text
+*World* - add * before and after text
 
-**Half-fat** - add ** before and above text
+**Half-fat** - add ** before and after text
 
 ## Lists
 
