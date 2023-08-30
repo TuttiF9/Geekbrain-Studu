@@ -1,6 +1,10 @@
-Hello world!
+# First GIT lesson
+
+## Text allocation
 
 *World*
+
+## Lists
 
 **Half-fat**
 
